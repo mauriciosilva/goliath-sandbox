@@ -1,0 +1,5 @@
+gem 'goliath', :git => 'https://github.com/postrank-labs/goliath.git'
+gem 'em-websocket'
+gem 'foreman'
+gem 'haml'
+gem 'tilt'
